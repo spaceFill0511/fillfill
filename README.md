@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=300&section=header&text=Hello!&fontSize=70" />
 </p>
 
-## 🛠️ STACKS
 <div align="center">
+  <h2>🛠️ STACKS</h2>
   <h3>Skills</h3>
   
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"> 
@@ -17,19 +17,13 @@
   <img src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white">
   
   <br><br>
-</div>
+  <h2>📈 GitHub Stats</h2>
   
-## 📈 GitHub Stats
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spaceFill0511&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spaceFill0511&show_icons=true&theme=radical)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceFill0511&layout=compact&theme=radical)
 
    <br><br>
-</div>
-
-## 🏆 Solved.ac Profile
-<div align="center">
+   <h2>🏆 Solved.ac Profile</h2>
   
   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fillfill_0511)
   
